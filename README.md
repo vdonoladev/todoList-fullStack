@@ -14,7 +14,11 @@
 
 <h2 id="layout">🎨 Layout</h2>
 
+<<<<<<< HEAD
 <p align="center"><img src="./public/image-example.jpeg" alt="Imagem para Computadores" width="100%"></p>
+=======
+<p align="center"><img src="#" alt="Imagem para Computadores" width="100%"></p>
+>>>>>>> 2c44559cee6bd0d5addd6365cc990aa4a8b49ab2
 
 <h2 id="tech">💻 Tecnologias</h2>
 
